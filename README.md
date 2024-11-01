@@ -1,19 +1,7 @@
 👋 Hello, I’m GeniusGoldDev
 I'm a Senior Developer with a passion for crafting high-quality solutions and building long-term relationships with clients and collaborators. With extensive experience in full-stack development and a strong track record as a freelancer, I deliver scalable, efficient, and future-proof digital solutions.
-
-👀 Areas of Interest
-Long-term collaborations and impactful projects
-Advanced frontend and backend development
-Innovative tech stacks and scalable architectures
-
-🌱 Currently
-Working as a dedicated freelancer with a focus on building robust, secure, and user-friendly applications.
-
-💞️ Open to Collaborate On
-Projects requiring expertise in complex, large-scale architectures
-Innovative applications in sectors such as fintech, e-commerce, and SaaS
-Mentorship opportunities and knowledge-sharing within tech communities
-
+🛠️ My Tech Stack
+<p align="left"> <img src="https://path-to-react-gif.gif" alt="React" width="60" height="60" /> <img src="https://path-to-vue-gif.gif" alt="Vue.js" width="60" height="60" /> <img src="https://path-to-mongo-gif.gif" alt="MongoDB" width="60" height="60" /> </p>
 📫 Reach Me
 Email: gold005dev@gmail.com
 Skype: live:.cid.e6a0e1af95fd6263
