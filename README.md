@@ -5,12 +5,15 @@ I'm a Senior Developer with a passion for crafting high-quality solutions and bu
 Long-term collaborations and impactful projects
 Advanced frontend and backend development
 Innovative tech stacks and scalable architectures
+
 🌱 Currently
 Working as a dedicated freelancer with a focus on building robust, secure, and user-friendly applications.
+
 💞️ Open to Collaborate On
 Projects requiring expertise in complex, large-scale architectures
 Innovative applications in sectors such as fintech, e-commerce, and SaaS
 Mentorship opportunities and knowledge-sharing within tech communities
+
 📫 Reach Me
 Email: gold005dev@gmail.com
 Skype: live:.cid.e6a0e1af95fd6263
