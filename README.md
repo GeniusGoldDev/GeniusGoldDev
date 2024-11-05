@@ -31,6 +31,8 @@
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusGoldDev&layout=compact&theme=radical)
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeniusGoldDev&theme=dark)
- 
+  ### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=GodHad&limit=5&theme=bear&combine_all_yearly_contributions=true)
+
 </div>
 
