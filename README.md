@@ -32,8 +32,5 @@
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeniusGoldDev&theme=dark)
  
- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GeniusGoldDev&limit=5&theme=bear&combine_all_yearly_contributions=true)
-
 </div>
 
