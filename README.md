@@ -26,7 +26,7 @@
 
 <div align="center">
  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richhao&show_icons=true&theme=radical)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richhaho&show_icons=true&theme=radical)
  
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusGoldDev&layout=compact&theme=radical)
  
