@@ -39,13 +39,6 @@
 <br>
 
 <div align="center">
-  <h4>🏆 Top Contributed Repo</h4>
-  <img src="https://github-contributor-stats.vercel.app/api?username=GeniusGoldDev&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
-<br>
-
-<div align="center">
   <h4>📫 Connect with Me</h4>
   <a href="https://github.com/GeniusGoldDev" target="_blank">GitHub</a> | 
   <a href="mailto:gold005dev@gmail.com">Email</a>
