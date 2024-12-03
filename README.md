@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there!</h1>
 <h3 align="center">✨ Full-Stack | Blockchain | Mobile Developer ✨</h3>
 <div align="center">
+  
   <h4>🛠️ Tech Stack</h4>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" />
@@ -11,6 +12,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  
 </div>
 <br>
 <div align="center">
