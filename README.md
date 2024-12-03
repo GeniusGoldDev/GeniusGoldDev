@@ -38,3 +38,6 @@
   <a href="https://github.com/GeniusGoldDev" target="_blank">GitHub</a> | 
   <a href="mailto:gold005dev@gmail.com">Email</a>
 </div>
+
+![GitHub stars](https://img.shields.io/github/stars/goldbright00000/<repo>.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
