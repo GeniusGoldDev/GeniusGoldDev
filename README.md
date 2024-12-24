@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/geniusgolddev"><img src="https://count.getloli.com/get/@:geniusgolddev?theme=rule34" width="50%"/>
+  <a href="https://github.com/geniusgolddev"><img src="https://count.getloli.com/get/@:geniusgolddev?theme=rule34" width="80%"/>
 </p>
 
 <p align="center">
