@@ -1,8 +1,23 @@
-<h1 align="center">👋 Hi there!</h1>
-<h3 align="center">✨ Full-Stack | Blockchain | Mobile Developer ✨</h3>
+
+
 <div align="center">
-  
-  <h4>🛠️ Tech Stack</h4>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeniusGoldDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusGoldDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusGoldDev&theme=dark" alt="GitHub Streak" />
+</div>
+<br>
+
+<p align="center">
+  <a href="https://github.com/geniusgolddev"><img src="https://count.getloli.com/get/@:geniusgolddev?theme=rule34" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geniusgolddev&theme=juicyfresh" /><a>
+</p>
+
+<div align="center">
+
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
@@ -26,13 +41,7 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
 </div>
 <br>
-<div align="center">
-  <h4>📊 GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=GeniusGoldDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusGoldDev&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusGoldDev&theme=dark" alt="GitHub Streak" />
-</div>
-<br>
+
 <div align="center">
   <h4>📫 Connect with Me</h4>
   <a href="https://github.com/GeniusGoldDev" target="_blank">GitHub</a> | 
